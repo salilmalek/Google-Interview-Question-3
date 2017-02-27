@@ -16,10 +16,12 @@ Write a function int equilibrium(int[] arr, int n); that given a sequence arr[] 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+
+public class Equilibrium {
+
 //Salil Malek
 //salil.malek@ymail.com
 //Looking for Job
-public class Equilibrium {
 
 	public static void main(String args[]) {
 		int[] a = { -7, 1, 5, 2, -4, 3, 0 };
